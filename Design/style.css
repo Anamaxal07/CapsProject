@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #FBB9FA;
+}
+
+.container
+{
+    padding: 40px;
+    border-radius: 20px;
+    border: 8px solid #FBB9FA;
+    box-shadow: -5px -5px 15px #363435
+    inset -5px -5px 15px #363435
+    inset -5px -5px 15px #363435;
+}
